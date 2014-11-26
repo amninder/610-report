@@ -3,5 +3,6 @@ The test results showcases the escalation in the performance of the websocket ov
 
 2.7 Mobile Communication: Android
 
-2.7.1 JSR356:Java Based Application Interface for WebSockets
+2.7.1 JSR 356
+
       
