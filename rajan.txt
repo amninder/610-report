@@ -4,5 +4,11 @@ The test results showcases the escalation in the performance of the websocket ov
 2.7 Mobile Communication: Android
 
 2.7.1 JSR 356
+JSR 356 is a java based application interface used to integrate websocket in both client
+and sever side.Any android client can communicate with the server in the websocket approach using JSR356.It enables the android client to initiate a connection and equips the server so that it awaits connections from all the peers and both the sides are very well equipped with callback listeners such as onOpen,onMessage and onClose. 
 
+
+Reference:
+
+https://www.jcp.org/en/jsr/detail?id=356 
       
