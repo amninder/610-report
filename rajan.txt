@@ -25,7 +25,15 @@ Easy implementation - less cumbersome in terms of functionality.
 
 Load balancer - can handle heavy loads of data traffic between the network peers.
 
-Secured - Can be made sure by implementing SSH key as token.  
+Secured - Can be made sure by implementing SSH key as token
+
+
+Traditional vs Unconventional:
+Typically REST application interface is implemented by integrating http protocol and it is considered as a simple interface. Our approach is based on the innovative process of integrating websocket with the REST application interface during data communication phase 
+between the server and the different types of clients.
+   
+
+   
 
  
  
