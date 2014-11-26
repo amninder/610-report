@@ -52,6 +52,13 @@ jwebsocket.org.
 \newblock Introduction websockets for android.
 \newblock October 2010.
 
+\bibitem{li2011design}
+L.~Li and W.~Chou.
+\newblock Design and describe rest api without violating rest: A petri net
+  based approach.
+\newblock In {\em Web Services (ICWS), 2011 IEEE International Conference on},
+  pages 508--515. IEEE, 2011.
+
 \bibitem{liu_websocket}
 Q.~Liu and X.~Sun.
 \newblock Research of web real-time communication based on web socket.
