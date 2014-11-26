@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Report.aux
+The style file: abbrv.bst
+Database file #1: ref.bib
+Warning--entry type for "autobahn" isn't style-file defined
+--line 89 of file ref.bib
+Warning--entry type for "pypy_cpython" isn't style-file defined
+--line 156 of file ref.bib
+Warning--to sort, need editor, organization, or key in 3
+Warning--empty journal in aghaei2012evolution
+Warning--empty year in aghaei2012evolution
+Warning--can't use both volume and number fields in anisenkov2012agis
+Warning--empty journal in kaazing_schematic
+Warning--empty year in 1
+Warning--empty journal in 5
+Warning--empty journal in liu_websocket
+Warning--empty booktitle in jit_fine_tune
+Warning--empty year in jit_fine_tune
+Warning--can't use both author and editor fields in stomp_cite
+You've used 20 entries,
+            2118 wiz_defined-function locations,
+            600 strings with 6431 characters,
+and the built_in function-call counts, 5780 in all, are:
+= -- 546
+> -- 236
+< -- 6
++ -- 98
+- -- 76
+* -- 368
+:= -- 939
+add.period$ -- 55
+call.type$ -- 20
+change.case$ -- 96
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 256
+empty$ -- 490
+format.name$ -- 76
+if$ -- 1230
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 16
+newline$ -- 96
+num.names$ -- 36
+pop$ -- 130
+preamble$ -- 1
+purify$ -- 79
+quote$ -- 0
+skip$ -- 190
+stack$ -- 0
+substring$ -- 266
+swap$ -- 62
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 77
+warning$ -- 11
+while$ -- 49
+width$ -- 22
+write$ -- 196
+(There were 13 warnings)

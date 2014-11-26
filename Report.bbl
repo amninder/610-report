@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{3}
+{\em HTML5 Connectivity Methods and Mobile Power Consumption}. W3.org, October
+  2010.
+
+\bibitem{aghaei2012evolution}
+S.~Aghaei, M.~A. Nematbakhsh, and H.~K. Farsani.
+\newblock Evolution of the world wide web: From web 1.0 to web 4.0.
+
+\bibitem{anisenkov2012agis}
+A.~Anisenkov, S.~Belov, A.~Di~Girolamo, S.~Gayazov, A.~Klimentov, D.~Oleynik,
+  and A.~Senchenko.
+\newblock Agis: The atlas grid information system.
+\newblock In {\em Journal of Physics: Conference Series}, volume 396, page
+  032006. IOP Publishing, 2012.
+
+\bibitem{autobahn}
+Autobahn.ws.
+\newblock Open-source real-time framework for web, mobile \& internet of
+  things.
+
+\bibitem{kaazing_schematic}
+K.~Corps.
+\newblock Real-time web-based platform provides competitive differentiator.
+\newblock 2012.
+
+\bibitem{ecma}
+ECMA.
+\newblock {\em Standard ECMA-262}, 3 edition, December 1999.
+
+\bibitem{1}
+J.-P. Erkkil{\"a}.
+\newblock {\em WebSocket Security Analysis}.
+\newblock PhD thesis, Aalto University School of Science.
+
+\bibitem{quantitative_research}
+M.~Fleischmann, J.~M. Bloemhof-Ruwaard, R.~Dekker, E.~van~der Laan, J.~A. van
+  Nunen, and L.~N.~V. Wassenhove.
+\newblock Quantitative models for reverse logistics: A review.
+\newblock {\em European Journal of Operational Research}, 103(1):1 -- 17, 1997.
+
+\bibitem{ajax_disadvantage}
+Y.~Gan and H.~Yang.
+\newblock Ajax and web services integrated framework based on duplicate proxy
+  pattern.
+\newblock In {\em Information Technologies and Applications in Education, 2007.
+  ISITAE '07. First IEEE International Symposium on}, pages 297--302, Nov 2007.
+
+\bibitem{5}
+jwebsocket.org.
+\newblock Introduction websockets for android.
+\newblock October 2010.
+
+\bibitem{liu_websocket}
+Q.~Liu and X.~Sun.
+\newblock Research of web real-time communication based on web socket.
+\newblock 2012.
+
+\bibitem{4}
+K.~ma and R.~Sun.
+\newblock Multiple wide tables with vertical scalability in multitenant sensor
+  cloud systems.
+\newblock {\em International Journal of Distributed Sensor Networks},
+  2013(867693):10, 2013.
+
+\bibitem{jit_fine_tune}
+F.~Maruyama, S.~Matsuoka, and K.~Shimura.
+\newblock Openjit 2: The design and implementation of application framework for
+  jit compilers.
+
+\bibitem{pypy_cpython}
+PyPy.org.
+\newblock Pypy performance optimization, October 2014.
+
+\bibitem{2}
+S.~M. Rakhunde.
+\newblock Real time data communication over full duplex network using
+  websocket.
+\newblock In {\em IOSR Journal of Computer Science (IOSR-JCE)}, page~19, 2014.
+
+\bibitem{qualitative_research}
+C.~Stenbacka.
+\newblock Qualitative research requires quality concepts of its own.
+\newblock {\em Management Decision}, 39(7):551--556, 2001.
+
+\bibitem{stomp_cite}
+V.~Wang, F.~Salim, and P.~Moskovits.
+\newblock {\em The Definitive Guide to HTML5 WebSocket}.
+\newblock Apress, February 2013.
+
+\bibitem{weiss2005webos}
+A.~Weiss.
+\newblock Webos: say goodbye to desktop applications.
+\newblock {\em Networker}, 9(4):18--26, 2005.
+
+\bibitem{ajax_advantage}
+C.~Ye.
+\newblock The advantages research about the sshdwr + ajax design pattern in
+  software developmen.
+\newblock In {\em Electronic and Mechanical Engineering and Information
+  Technology (EMEIT), 2011 International Conference on}, volume~9, pages
+  4570--4573, Aug 2011.
+
+\bibitem{ajax_advantage_cambridge}
+G.~Zanker.
+\newblock Ajax.
+\newblock {\em The Classical Review (New Series)}, 55:19--20, 3 2005.
+
+\end{thebibliography}

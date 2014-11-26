@@ -1,0 +1,719 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 NOV 2014 18:54
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 368.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\lst@mode=\count92
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count93
+\lst@currlwidth=\dimen117
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen120
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box28
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen121
+\extrarowheight=\dimen122
+\NC@list=\toks18
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\@input{pythonlisting.aux}
+\openout2 = `pythonlisting.aux'.
+
+No file pythonlisting.tex.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2011/09/17 v1.7 Yet another Pygments shim for LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count100
+\FV@InFile=\read1
+\FV@TabBox=\box29
+\c@FancyVerbLine=\count101
+\FV@StepNumber=\count102
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks19
+\float@box=\box30
+\@float@everytoks=\toks20
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count107
+\calc@Cskip=\skip48
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+runsystem(uname -s > "Report.w18")...executed.
+
+
+(./Report.w18)
+runsystem(rm -- "Report.w18")...executed.
+
+)
+\minted@bgbox=\box32
+\minted@code=\write4
+\@float@every@listing=\toks21
+\c@listing=\count108
+)
+runsystem(which pygmentize && touch Report.aex)...executed.
+
+runsystem(rm Report.aex)...executed.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks22
+\ex@=\dimen127
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen128
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count109
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count110
+\leftroot@=\count111
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count112
+\DOTSCASE@=\count113
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen129
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
+\dotsspace@=\muskip11
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
+\tag@help=\toks23
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
+\andhelp@=\toks24
+\eqnshift@=\dimen130
+\alignsep@=\dimen131
+\tagshift@=\dimen132
+\tagwidth@=\dimen133
+\totwidth@=\dimen134
+\lineht@=\dimen135
+\@envbody=\toks25
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks27
+\c@algorithm=\count121
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count122
+\c@ALC@line=\count123
+\c@ALC@rem=\count124
+\c@ALC@depth=\count125
+\ALC@tlm=\skip52
+\algorithmicindent=\skip53
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(./Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+\c@lstlisting=\count126
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen136
+\scratchbox=\box35
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen137
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks29
+)
+runsystem(pygmentize -S default -f latex > Report.pyg)...executed.
+
+ (./Report.pyg)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.jpeg,.png,.PNG,.GIF,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 530.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 530.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 530.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 530.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 530.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 530.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 530.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 530.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 530.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 533.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 570.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <14> not available
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 570.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 587.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 590.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 590.
+ [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+
+]
+Underfull \hbox (badness 2165) in paragraph at lines 602--603
+\OT1/ppl/m/n/12 im-prac-ti-cal to im-ple-ment us-ing the HTTP
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 604--605
+\OT1/ppl/m/n/12 in-clude an em-u-la-tion ca-pa-bil-ity for legacy
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 608--609
+\OT1/ppl/m/n/12 WebSocket-based Ama-zon Elas-tic Com-pute
+ []
+
+<images/cloud_server_monitor.jpg, id=13, 583.17876pt x 183.68625pt>
+File: images/cloud_server_monitor.jpg Graphic file (type jpg)
+
+<use images/cloud_server_monitor.jpg>
+Package pdftex.def Info: images/cloud_server_monitor.jpg used on input line 614
+.
+(pdftex.def)             Requested size: 256.0748pt x 80.65962pt.
+
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 614--615
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+ \OT1/phv/b/sc/14 2 Back-ground & Re-lated
+ []
+
+[2 <./images/cloud_server_monitor.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 720--720
+ \OT1/phv/b/n/12 2.4 Web-Socket (Mo-bile Com-mu-ni-ca-
+ []
+
+Missing character: There is no Ð in font pplr7t!
+Missing character: There is no Õ in font pplr7t!
+
+Underfull \hbox (badness 3690) in paragraph at lines 726--727
+[]\OT1/ppl/b/it/12 PyPy\OT1/ppl/b/n/12 : \OT1/ppl/m/n/12 PyPy is an im-ple-men-
+ta-tion of
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 726--727
+\OT1/ppl/m/n/12 ing JIT(Just in Time Com-pi-la-tion). JIT
+ []
+
+[3]
+Underfull \hbox (badness 1642) in paragraph at lines 730--732
+\OT1/ppl/m/n/12 Web-Socket. The Au-to-bahn project pro-
+ []
+
+Missing character: There is no Ê in font pplr7t!
+Missing character: There is no Ê in font pplr7t!
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 764.
+Missing character: There is no Ê in font pplr7t!
+Missing character: There is no Ê in font pplr7t!
+Missing character: There is no Ê in font pplr7t!
+Missing character: There is no Ê in font pplr7t!
+Missing character: There is no Ê in font pplr7t!
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 783--785
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 787.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsppl.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 787.
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--800
+[]\OT1/ppl/m/n/12 HTTP/1.1 101 Web-Socket Pro-to-col
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--803
+[]\OT1/ppl/m/n/12 Sec-WebSocket-Origin:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--804
+[]\OT1/ppl/m/n/12 Sec-WebSocket-Location:
+ []
+
+Missing character: There is no Ð in font pplr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
+[]\OT1/ppl/m/n/12 GET /ser-vices/chat/;room=Foyer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+[]\OT1/ppl/m/n/12 HTTP/1.1 101 Web-Socket Pro-to-col
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+[]\OT1/ppl/m/n/12 Sec-WebSocket-
+ []
+
+[5]
+Underfull \hbox (badness 1377) in paragraph at lines 871--872
+\OT1/ppl/m/n/12 cul-ture, mo-ti-va-tions, be-hav-iors, and pref-er-
+ []
+
+[6]
+Underfull \hbox (badness 1603) in paragraph at lines 897--898
+\OT1/ppl/m/n/12 re-sponse we de-vel-oped server lo-cally. The
+ []
+
+<images/ajax_result.pdf, id=33, 578.16pt x 433.62pt>
+File: images/ajax_result.pdf Graphic file (type pdf)
+
+<use images/ajax_result.pdf>
+Package pdftex.def Info: images/ajax_result.pdf used on input line 904.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--911
+ \OT1/phv/m/sl/12 3.1.2 Request-Response us-ing Web-
+ []
+
+<images/ajax_websocket.pdf, id=34, 578.16pt x 433.62pt>
+File: images/ajax_websocket.pdf Graphic file (type pdf)
+
+<use images/ajax_websocket.pdf>
+Package pdftex.def Info: images/ajax_websocket.pdf used on input line 917.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+
+<images/websocket_result.pdf, id=35, 578.16pt x 433.62pt>
+File: images/websocket_result.pdf Graphic file (type pdf)
+
+<use images/websocket_result.pdf>
+Package pdftex.def Info: images/websocket_result.pdf used on input line 925.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+ [7 <./images/ajax_result.pdf> <./images/ajax_websocket.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./images/ajax_websocket.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+> <./images/websocket_result.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./images/websocket_result.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>] <images/ajax_normal.pdf, id=146, 578.16pt x 433.62pt>
+File: images/ajax_normal.pdf Graphic file (type pdf)
+
+<use images/ajax_normal.pdf>
+Package pdftex.def Info: images/ajax_normal.pdf used on input line 959.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+
+<images/websocket_normal.pdf, id=147, 578.16pt x 433.62pt>
+File: images/websocket_normal.pdf Graphic file (type pdf)
+
+<use images/websocket_normal.pdf>
+Package pdftex.def Info: images/websocket_normal.pdf used on input line 967.
+(pdftex.def)             Requested size: 252.0pt x 189.00032pt.
+ [8 <./images/ajax_normal.pdf> <./images/websocket_normal.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./images/websocket_normal.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>] (./Report.bbl) [9]
+runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
+ns= ,firstline=1,lastline=47" -o Report.out.pyg client.py)...executed.
+
+ (./Report.out.pyg
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 1.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <12> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 14.
+ [10
+
+])
+runsystem(rm Report.out.pyg)...executed.
+
+runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
+ns= ,firstline=48,lastline=51" -o Report.out.pyg client.py)...executed.
+
+
+(./Report.out.pyg)
+runsystem(rm Report.out.pyg)...executed.
+
+ [11]
+runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
+ns= ,firstline=1,lastline=47" -o Report.out.pyg broadcast/broadcast.py)...execu
+ted.
+
+ (./Report.out.pyg)
+runsystem(rm Report.out.pyg)...executed.
+
+runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
+ns= ,firstline=48,lastline=65" -o Report.out.pyg broadcast/broadcast.py)...exec
+uted.
+
+ (./Report.out.pyg
+Underfull \vbox (badness 3407) has occurred while \output is active []
+
+ [12
+
+])
+runsystem(rm Report.out.pyg)...executed.
+
+
+[13]
+runsystem(pygmentize -l js -f latex -F tokenmerge             -P "verboptions= 
+,firstline=24,lastline=54" -o Report.out.pyg lp/template/long_poller.js)...exec
+uted.
+
+ (./Report.out.pyg)
+runsystem(rm Report.out.pyg)...executed.
+
+runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
+ns= ,firstline=1,lastline=21" -o Report.out.pyg lp/msgsrv/views.py)...executed.
+
+ (./Report.out.pyg [14
+
+])
+runsystem(rm Report.out.pyg)...executed.
+
+ [15] (./Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 5934 strings out of 493315
+ 87037 string characters out of 6137904
+ 163427 words of memory out of 5000000
+ 9228 multiletter control sequences out of 15000+600000
+ 48474 words of font info for 103 fonts, out of 8000000 for 9000
+ 960 hyphenation exceptions out of 8191
+ 37i,11n,40p,1013b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
+urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/pa
+latino/uplb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/
+uplbi8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplr8a
+.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on Report.pdf (15 pages, 328514 bytes).
+PDF statistics:
+ 272 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
