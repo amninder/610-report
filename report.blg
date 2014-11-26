@@ -4,9 +4,9 @@ The top-level auxiliary file: report.aux
 The style file: abbrv.bst
 Database file #1: ref.bib
 Warning--entry type for "autobahn" isn't style-file defined
---line 98 of file ref.bib
+--line 111 of file ref.bib
 Warning--entry type for "pypy_cpython" isn't style-file defined
---line 165 of file ref.bib
+--line 178 of file ref.bib
 Warning--to sort, need editor, organization, or key in 3
 Warning--empty journal in aghaei2012evolution
 Warning--empty year in aghaei2012evolution
@@ -18,45 +18,45 @@ Warning--empty journal in liu_websocket
 Warning--empty booktitle in jit_fine_tune
 Warning--empty year in jit_fine_tune
 Warning--can't use both author and editor fields in stomp_cite
-You've used 21 entries,
+You've used 23 entries,
             2118 wiz_defined-function locations,
-            606 strings with 6611 characters,
-and the built_in function-call counts, 6245 in all, are:
-= -- 598
-> -- 249
-< -- 7
-+ -- 103
-- -- 80
-* -- 393
-:= -- 1003
-add.period$ -- 59
-call.type$ -- 21
-change.case$ -- 101
+            616 strings with 6843 characters,
+and the built_in function-call counts, 6848 in all, are:
+= -- 660
+> -- 269
+< -- 8
++ -- 111
+- -- 86
+* -- 420
+:= -- 1097
+add.period$ -- 66
+call.type$ -- 23
+change.case$ -- 110
 chr.to.int$ -- 0
-cite$ -- 32
-duplicate$ -- 279
-empty$ -- 531
-format.name$ -- 80
-if$ -- 1341
+cite$ -- 34
+duplicate$ -- 306
+empty$ -- 589
+format.name$ -- 86
+if$ -- 1479
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 17
-newline$ -- 101
-num.names$ -- 38
-pop$ -- 138
+int.to.str$ -- 23
+missing$ -- 18
+newline$ -- 111
+num.names$ -- 42
+pop$ -- 154
 preamble$ -- 1
-purify$ -- 83
+purify$ -- 90
 quote$ -- 0
-skip$ -- 209
+skip$ -- 230
 stack$ -- 0
-substring$ -- 303
-swap$ -- 73
-text.length$ -- 7
+substring$ -- 332
+swap$ -- 80
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 81
+type$ -- 89
 warning$ -- 11
-while$ -- 54
-width$ -- 23
-write$ -- 208
+while$ -- 61
+width$ -- 25
+write$ -- 229
 (There were 13 warnings)

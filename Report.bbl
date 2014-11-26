@@ -29,6 +29,11 @@ K.~Corps.
 ECMA.
 \newblock {\em Standard ECMA-262}, 3 edition, December 1999.
 
+\bibitem{implement_longpolling}
+H.~Elgendy.
+\newblock Understanding ajax long-polling requests.
+\newblock http://webcooker.net/ajax-polling-requests-php-jquery/.
+
 \bibitem{1}
 J.-P. Erkkil{\"a}.
 \newblock {\em WebSocket Security Analysis}.
@@ -51,6 +56,11 @@ Y.~Gan and H.~Yang.
 jwebsocket.org.
 \newblock Introduction websockets for android.
 \newblock October 2010.
+
+\bibitem{lengstorf2013realtime}
+J.~Lengstorf and P.~Leggetter.
+\newblock What is realtime?
+\newblock In {\em Realtime Web Apps}, pages 3--13. Springer, 2013.
 
 \bibitem{li2011design}
 L.~Li and W.~Chou.

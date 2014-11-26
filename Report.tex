@@ -473,7 +473,7 @@
 	\IEEEauthorblockN{
 		Amninder S Narota\IEEEauthorrefmark{1}
 		Yousef Alghamdi\IEEEauthorrefmark{2}  
-		Rajan Saroj\IEEEauthorrefmark{3}
+		Rajan Subramaniam\IEEEauthorrefmark{3}
 	}\\
 	\IEEEauthorblockA{
 		Department of Computer Science,\\
@@ -765,6 +765,10 @@ Web client of Radio on map will be browser based client. It will have two ways o
 
 \subsubsection{Long Polling}
 Client application and server has two ways of long pulling. In client, income streaming data (radio streaming) will require continue pulling request that websocket has build-in library handle it automatically.  Also that apply on the server side pulling request from the client (client data stream), which handles automatically by websocket\cite{liu_websocket}. Long pulling request will be handle automatically by websocket.
+
+In Http Long Polling the server holds on to the response unless the server has an update, as soon as the server has an update, it sends it and then the client can send another request. Disadvantage is the additional header data that needs to be sent back and forth causing additional overhead.
+
+Realtime example of Http Long polling is Facebook Messaging where it sends a XHR (Ajax)\cite{lengstorf2013realtime}. Hamid Elgendi\cite{implement_longpolling} explains in the implementation of Http Long Polling that request and leaves it open for almost 40 seconds. Instead of sending a request each second to check for new messages (Polling), Long-Polling Ajax Requests sends requests continuously on the long-term. So instead of having 120 Requests sent to the server in two minutes we can only make 3-4 requests.
 
 \subsubsection{Connection Operations}
 There will be three process of connection between server and client that are open connection, close connection and connection errors. Three operations will be handled by websocket library which provides automatic control of connection operations.Open connection process of handshaking and configuring protocol are done by the websocket library that simply done by creating websocket object that has all configurations and protocols data attached with. That apply too on the close connection operation. Connection errors such that client disconnected for some reason websocket will atomically try to reconnected with client application. 
