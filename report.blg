@@ -1,12 +1,12 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: Report.aux
+The top-level auxiliary file: report.aux
 The style file: abbrv.bst
 Database file #1: ref.bib
 Warning--entry type for "autobahn" isn't style-file defined
---line 89 of file ref.bib
+--line 98 of file ref.bib
 Warning--entry type for "pypy_cpython" isn't style-file defined
---line 156 of file ref.bib
+--line 165 of file ref.bib
 Warning--to sort, need editor, organization, or key in 3
 Warning--empty journal in aghaei2012evolution
 Warning--empty year in aghaei2012evolution
@@ -18,45 +18,45 @@ Warning--empty journal in liu_websocket
 Warning--empty booktitle in jit_fine_tune
 Warning--empty year in jit_fine_tune
 Warning--can't use both author and editor fields in stomp_cite
-You've used 20 entries,
+You've used 21 entries,
             2118 wiz_defined-function locations,
-            600 strings with 6431 characters,
-and the built_in function-call counts, 5780 in all, are:
-= -- 546
-> -- 236
-< -- 6
-+ -- 98
-- -- 76
-* -- 368
-:= -- 939
-add.period$ -- 55
-call.type$ -- 20
-change.case$ -- 96
+            606 strings with 6611 characters,
+and the built_in function-call counts, 6245 in all, are:
+= -- 598
+> -- 249
+< -- 7
++ -- 103
+- -- 80
+* -- 393
+:= -- 1003
+add.period$ -- 59
+call.type$ -- 21
+change.case$ -- 101
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 256
-empty$ -- 490
-format.name$ -- 76
-if$ -- 1230
+cite$ -- 32
+duplicate$ -- 279
+empty$ -- 531
+format.name$ -- 80
+if$ -- 1341
 int.to.chr$ -- 0
-int.to.str$ -- 20
-missing$ -- 16
-newline$ -- 96
-num.names$ -- 36
-pop$ -- 130
+int.to.str$ -- 21
+missing$ -- 17
+newline$ -- 101
+num.names$ -- 38
+pop$ -- 138
 preamble$ -- 1
-purify$ -- 79
+purify$ -- 83
 quote$ -- 0
-skip$ -- 190
+skip$ -- 209
 stack$ -- 0
-substring$ -- 266
-swap$ -- 62
-text.length$ -- 6
+substring$ -- 303
+swap$ -- 73
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 77
+type$ -- 81
 warning$ -- 11
-while$ -- 49
-width$ -- 22
-write$ -- 196
+while$ -- 54
+width$ -- 23
+write$ -- 208
 (There were 13 warnings)

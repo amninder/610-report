@@ -920,6 +920,10 @@ The advantage with WebSockets (over AJAX) is basically that there is less HTTP o
 \end{figure}
 
 The system was implemented using library Autobahn\cite{autobahn} to create client and server for listening requests. The client first listens to the web protocol on the port on which server is running and the data is sent to the server on that port. The time was recorded at the time of sending and at the time of receiving. The result is obtained when server sends back the response. The code of client is mentioned in {\bf Appendix \ref{sec:websocket_client_code}}.
+
+The Data Structure object sent over network was in JSON format and followed REST api\cite{anisenkov2012agis}  pattern for communication as it helps to organize very complex application into simpler resources.\cite{li2011design}
+
+
 \begin{figure}[ht!]
 \centering
 \includegraphics[width=\linewidth]{images/websocket_result.pdf}
