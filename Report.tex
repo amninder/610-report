@@ -532,11 +532,13 @@
 
 \begin{abstract}
 %\boldmath
-WebSockets isn't intended to replace AJAX and is not strictly even a replacement for Comet/long-poll (although there are many cases where this makes sense).
+WebSockets isn't intended to replace AJAX and is not strictly even a replacement for Comet/long-poll (although there are many cases where this makes sense). The paper is not only test the connection between server and browser but it also provide how web socket is supported in different Operating Systems.
 
 The purpose of this research is to provide a low-latency, bi-directional, full-duplex and long-running connection between a browser and server. WebSockets opens up new application domains to browser applications that were not really possible using HTTP and AJAX (interactive games, dynamic media streams, bridging to existing network protocols, etc).
 
 The fact that a Websocket is a fully bi-directional communication channel between the browser and server immediately opens up some very interesting opportunities for web applications. Because the connection is persistent, the server can now initiate communication with the browser. The server can send alerts, updates, notifications. This adds a whole new dimension to the types of applications that can be constructed.
+
+The test results showcases the escalation in the performance of the websocket over the ajax in terms of data distribution per millisecond.
 \end{abstract}
 % IEEEtran.cls defaults to using nonbold math in the Abstract.
 % This preserves the distinction between vectors and scalars. However,

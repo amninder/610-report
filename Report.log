@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 NOV 2014 19:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  25 NOV 2014 20:09
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -438,32 +438,32 @@ File: upzd.fd 2001/06/04 font definitions for U/pzd.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 533.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 570.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 572.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <14> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 570.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 572.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 587.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 589.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 590.
+(Font)              <12> on input line 592.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 590.
+(Font)              <8> on input line 592.
  [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 
 ]
-Underfull \hbox (badness 2165) in paragraph at lines 602--603
+Underfull \hbox (badness 2165) in paragraph at lines 604--605
 \OT1/ppl/m/n/12 im-prac-ti-cal to im-ple-ment us-ing the HTTP
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 604--605
+Underfull \hbox (badness 1655) in paragraph at lines 606--607
 \OT1/ppl/m/n/12 in-clude an em-u-la-tion ca-pa-bil-ity for legacy
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 608--609
+Underfull \hbox (badness 3078) in paragraph at lines 610--611
 \OT1/ppl/m/n/12 WebSocket-based Ama-zon Elas-tic Com-pute
  []
 
@@ -471,101 +471,104 @@ Underfull \hbox (badness 3078) in paragraph at lines 608--609
 File: images/cloud_server_monitor.jpg Graphic file (type jpg)
 
 <use images/cloud_server_monitor.jpg>
-Package pdftex.def Info: images/cloud_server_monitor.jpg used on input line 614
+Package pdftex.def Info: images/cloud_server_monitor.jpg used on input line 616
 .
 (pdftex.def)             Requested size: 256.0748pt x 80.65962pt.
 
-Overfull \hbox (4.0748pt too wide) in paragraph at lines 614--615
+Overfull \hbox (4.0748pt too wide) in paragraph at lines 616--617
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 706--706
+Underfull \hbox (badness 10000) in paragraph at lines 708--708
  \OT1/phv/b/sc/14 2 Back-ground & Re-lated
  []
 
 [2 <./images/cloud_server_monitor.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 720--720
+Underfull \hbox (badness 10000) in paragraph at lines 722--722
  \OT1/phv/b/n/12 2.4 Web-Socket (Mo-bile Com-mu-ni-ca-
  []
 
 Missing character: There is no Ð in font pplr7t!
 Missing character: There is no Õ in font pplr7t!
 
-Underfull \hbox (badness 3690) in paragraph at lines 726--727
+Underfull \hbox (badness 3690) in paragraph at lines 728--729
 []\OT1/ppl/b/it/12 PyPy\OT1/ppl/b/n/12 : \OT1/ppl/m/n/12 PyPy is an im-ple-men-
 ta-tion of
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 726--727
+Underfull \hbox (badness 1902) in paragraph at lines 728--729
 \OT1/ppl/m/n/12 ing JIT(Just in Time Com-pi-la-tion). JIT
  []
 
 [3]
-Underfull \hbox (badness 1642) in paragraph at lines 730--732
+Underfull \hbox (badness 1642) in paragraph at lines 732--734
 \OT1/ppl/m/n/12 Web-Socket. The Au-to-bahn project pro-
  []
 
 Missing character: There is no Ê in font pplr7t!
 Missing character: There is no Ê in font pplr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 764.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 766.
 Missing character: There is no Ê in font pplr7t!
 Missing character: There is no Ê in font pplr7t!
 Missing character: There is no Ê in font pplr7t!
 Missing character: There is no Ê in font pplr7t!
 Missing character: There is no Ê in font pplr7t!
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 783--785
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 785--787
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 787.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 789.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 787.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 789.
 
-Underfull \hbox (badness 10000) in paragraph at lines 799--800
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 []\OT1/ppl/m/n/12 HTTP/1.1 101 Web-Socket Pro-to-col
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 802--803
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
 []\OT1/ppl/m/n/12 Sec-WebSocket-Origin:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 803--804
+Underfull \hbox (badness 10000) in paragraph at lines 805--806
 []\OT1/ppl/m/n/12 Sec-WebSocket-Location:
  []
 
 Missing character: There is no Ð in font pplr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 808--809
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
 []\OT1/ppl/m/n/12 GET /ser-vices/chat/;room=Foyer
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 819--820
+Underfull \hbox (badness 10000) in paragraph at lines 821--822
 []\OT1/ppl/m/n/12 HTTP/1.1 101 Web-Socket Pro-to-col
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 822--823
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
 []\OT1/ppl/m/n/12 Sec-WebSocket-
  []
 
 [5]
-Underfull \hbox (badness 1377) in paragraph at lines 871--872
+Underfull \hbox (badness 1377) in paragraph at lines 873--874
 \OT1/ppl/m/n/12 cul-ture, mo-ti-va-tions, be-hav-iors, and pref-er-
  []
 
 [6]
-Underfull \hbox (badness 1603) in paragraph at lines 897--898
+Underfull \hbox (badness 1603) in paragraph at lines 899--900
 \OT1/ppl/m/n/12 re-sponse we de-vel-oped server lo-cally. The
  []
 
@@ -573,10 +576,10 @@ Underfull \hbox (badness 1603) in paragraph at lines 897--898
 File: images/ajax_result.pdf Graphic file (type pdf)
 
 <use images/ajax_result.pdf>
-Package pdftex.def Info: images/ajax_result.pdf used on input line 904.
+Package pdftex.def Info: images/ajax_result.pdf used on input line 906.
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 911--911
+Underfull \hbox (badness 10000) in paragraph at lines 913--913
  \OT1/phv/m/sl/12 3.1.2 Request-Response us-ing Web-
  []
 
@@ -584,14 +587,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 911--911
 File: images/ajax_websocket.pdf Graphic file (type pdf)
 
 <use images/ajax_websocket.pdf>
-Package pdftex.def Info: images/ajax_websocket.pdf used on input line 917.
+Package pdftex.def Info: images/ajax_websocket.pdf used on input line 919.
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 
 <images/websocket_result.pdf, id=35, 578.16pt x 433.62pt>
 File: images/websocket_result.pdf Graphic file (type pdf)
 
 <use images/websocket_result.pdf>
-Package pdftex.def Info: images/websocket_result.pdf used on input line 929.
+Package pdftex.def Info: images/websocket_result.pdf used on input line 931.
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
  [7 <./images/ajax_result.pdf> <./images/ajax_websocket.pdf
 
@@ -601,27 +604,22 @@ clusion: multiple pdfs with page group included in a single page
 File: images/ajax_normal.pdf Graphic file (type pdf)
 
 <use images/ajax_normal.pdf>
-Package pdftex.def Info: images/ajax_normal.pdf used on input line 963.
+Package pdftex.def Info: images/ajax_normal.pdf used on input line 965.
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
 
 <images/websocket_normal.pdf, id=115, 578.16pt x 433.62pt>
 File: images/websocket_normal.pdf Graphic file (type pdf)
 
 <use images/websocket_normal.pdf>
-Package pdftex.def Info: images/websocket_normal.pdf used on input line 971.
+Package pdftex.def Info: images/websocket_normal.pdf used on input line 973.
 (pdftex.def)             Requested size: 252.0pt x 189.00032pt.
-
-Underfull \vbox (badness 7379) has occurred while \output is active []
-
  [8 <./images/websocket_result.pdf> <./images/ajax_normal.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./images/ajax_normal.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
-> <./images/websocket_normal.pdf
+>] (./Report.bbl [9 <./images/websocket_normal.pdf>]) [10
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./images/websocket_normal.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
->] (./Report.bbl) [9]
+]
 runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
 ns= ,firstline=1,lastline=47" -o Report.out.pyg client.py)...executed.
 
@@ -635,7 +633,7 @@ LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <12> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <12> not available
 (Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 14.
- [10
+ [11
 
 ])
 runsystem(rm Report.out.pyg)...executed.
@@ -647,7 +645,7 @@ ns= ,firstline=48,lastline=51" -o Report.out.pyg client.py)...executed.
 (./Report.out.pyg)
 runsystem(rm Report.out.pyg)...executed.
 
- [11]
+ [12]
 runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
 ns= ,firstline=1,lastline=47" -o Report.out.pyg broadcast/broadcast.py)...execu
 ted.
@@ -662,13 +660,13 @@ uted.
  (./Report.out.pyg
 Underfull \vbox (badness 3407) has occurred while \output is active []
 
- [12
+ [13
 
 ])
 runsystem(rm Report.out.pyg)...executed.
 
 
-[13]
+[14]
 runsystem(pygmentize -l js -f latex -F tokenmerge             -P "verboptions= 
 ,firstline=24,lastline=54" -o Report.out.pyg lp/template/long_poller.js)...exec
 uted.
@@ -679,12 +677,12 @@ runsystem(rm Report.out.pyg)...executed.
 runsystem(pygmentize -l python -f latex -F tokenmerge             -P "verboptio
 ns= ,firstline=1,lastline=21" -o Report.out.pyg lp/msgsrv/views.py)...executed.
 
- (./Report.out.pyg [14
+ (./Report.out.pyg [15
 
 ])
 runsystem(rm Report.out.pyg)...executed.
 
- [15] (./Report.aux) ) 
+ [16] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
  5935 strings out of 493315
  87051 string characters out of 6137904
@@ -692,7 +690,7 @@ Here is how much of TeX's memory you used:
  9229 multiletter control sequences out of 15000+600000
  48474 words of font info for 103 fonts, out of 8000000 for 9000
  960 hyphenation exceptions out of 8191
- 37i,11n,40p,1013b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,40p,1013b,274s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/
 8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 2.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.
@@ -713,10 +711,10 @@ latino/uplb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/
 uplbi8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplr8a
 .pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on Report.pdf (15 pages, 328964 bytes).
+Output written on Report.pdf (16 pages, 329871 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 276 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
