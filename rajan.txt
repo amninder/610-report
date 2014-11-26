@@ -8,7 +8,25 @@ JSR 356 is a java based application interface used to integrate websocket in bot
 and sever side.Any android client can communicate with the server in the websocket approach using JSR356.It enables the android client to initiate a connection and equips the server so that it awaits connections from all the peers and both the sides are very well equipped with callback listeners such as onOpen,onMessage and onClose. 
 
 
-Reference:
+Data Exchange
+In our test scenario we used REST application interface to provide a connectivity between 
+server and the client.REST represents Representational State Transfer is basically a 
+stateless,cacheable,client-server communication protocol.The main aim of REST application 
+interface in this test scenario is to covert the user data into jason objects and it is very simple in nature when compared to the other protocols in terms of implementations like request handling and responding.
 
-https://www.jcp.org/en/jsr/detail?id=356 
+Characteristics
+The REST application interface have the following characteristics such as 
+
+Platform Independent - it can run on any operating system.
+
+Language Independent - can be integrated with different programming languages.
+
+Easy implementation - less cumbersome in terms of functionality.
+
+Load balancer - can handle heavy loads of data traffic between the network peers.
+
+Secured - Can be made sure by implementing SSH key as token.  
+
+ 
+ 
       
